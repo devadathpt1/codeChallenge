@@ -32,6 +32,7 @@ public class Main {
 
         sumOfPair =  42;
         Integer[] arr2 = {1, 1, 10, 32, 41};
+
         System.out.println(printNumOfPairs(arr2,sumOfPair));
     }
 
